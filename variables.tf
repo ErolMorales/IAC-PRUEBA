@@ -10,12 +10,12 @@ variable "os_version" {
 
 variable "admin_username" {
   type    = string
-  default = "patitouser"
+  default = "emorales"
 }
 
 variable "admin_password" {
   type    = string
-  default = "Guatemala2023!"
+  default = "Sistemas23#"
 }
 
 variable "location" {
