@@ -10,7 +10,7 @@ pipeline {
   stages {
     stage('Paso para clonar el repositorio') {
       steps {
-          git url: 'https://github.com/ErolMorales/Landing-Page.git' 
+          git url: 'https://github.com/ErolMorales/IAC-PRUEBA.git' 
           echo "Descargado el repositorio de la IAC"
       }
     }
